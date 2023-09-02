@@ -1,7 +1,7 @@
 
 # Amazon - Clone using ReactJs
 
-## Tech We Used
+## Tech i have Used
 
 - ReactJs
 - Firebase Hosting
